@@ -1,0 +1,38 @@
+.scrollup {
+    padding-left: 8px;
+    padding-top: 2px;
+}
+.home>img {
+    width: 1920px;
+    height: 808px;
+}
+.navbar:after {
+    clear: both;
+    display: block;
+}
+.feature_content {
+    font-size: 16px;
+}
+.feature_content .about {
+    font-weight: bold;
+    color: black;
+}
+#feature {
+    padding-top: 100px;
+}
+.model_img {
+    width: 270px;
+    height: 270px;
+}
+.model_item h5 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.model_item a {
+    text-decoration: underline;
+}
+.contact_img img {
+    width: 799px;
+    height: 426px;
+    opacity: 0.6;
+}
